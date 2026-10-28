@@ -1,0 +1,6 @@
+{
+  "name": "منصة امتحانات الشهادة الإعدادية 2026/2027",
+  "description": "امتحان تفاعلي ونماذج إجابة معتمدة لطلاب الصف الثالث الإعدادي للوحدات الأولى والثانية والثالثة مع الشرح والتصحيح والطباعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
